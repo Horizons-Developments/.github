@@ -11,16 +11,14 @@ Feel free to contact us for a non-binding quote if you are interested.
 
 ### Which coding languages does Horizons Developments offer?
 
-We usually program with HTML, CSS, and JavaScript (JS), but we can also switch to other languages.
+We usually program with HTML, CSS, and JavaScript (JS), but we can also switch to other languages if needed.
 
 ### More Coming Soon ✨
 
 ## Contact
 
-Have we piqued your interest? Then send us an email and we will send you a non-binding quote—we can find a solution for everything ✨
+Have we piqued your interest? Then send us an email and we will send you a non-binding quote - we can find a solution for everything ✨
 
 [horizons-developments@outlook.com](mailto:horizons-developments@outlook.com)
 
 © 2026 Horizons Developments - All rights reserved.
-
-Translated with DeepL.com (free version)
