@@ -1,23 +1,27 @@
 # Hey and welcome to Horizons Developments ✨
 
 ## 🙋‍♂️ About Us
-Horizons Developments currently consists solely of yours truly ([Timon611](https://github.com/timon611)) and is supported in some areas by volunteers (more info in the respective repos).
+Horizons Developments currently consists solely of yours truly ([Timon611](https://github.com/timon611)) and can be supported in some areas by volunteers.
 
-## 📋 Our Projects
+## 📋 Our active Projects
 
 ### 🩵 SCNX Community
 
-The website for the project “SCNX Community” - currently not under active development.
-> GitHub: [github.com/Horizons-Developments/scnx-community](https://github.com/Horizons-Developments/scnx-community)
+The landing page for the project “SCNX Community”.
+> 🟢 Active development
 
-> Development website: [scnx-community.pages.dev](https://scnx-community.pages.dev)
+> [scnx-community.pages.dev](https://scnx-community.pages.dev)
+
+> HTML / CSS / JS / Svelte
 
 ### 🩵 SCNX Community Dashboard
 
-The dashboard for the project “SCNX Community” - currently under active development.
-> GitHub: [github.com/Horizons-Developments/scnx-community-dashboard](https://github.com/Horizons-Developments/scnx-community-dashboard)
+The dashboard for the project “SCNX Community”.
+> 🟢 Active development
 
-> Development website: [scnx-community-dashboard.vercel.app](https://scnx-community-dashboard.vercel.app)
+> [Currently not working due database]
+
+> HTML / CSS / JS / Svelte
 
 ## ⁉️ FAQs
 
@@ -31,11 +35,11 @@ The dashboard for the project “SCNX Community” - currently under active deve
 
 **Can we create projects for other people?**
 
-> Yes, that’s possible! Feel free to contact us to discuss all the details!
+> Currently, we don't build projects for third persons, but feel free to contact us anyways, so we can find the best solution for everyone.
 
-**Can you work at Horizons Developments?**
+**Can I work at Horizons Developments?**
 
-> No, unfortunately that’s not possible. Since we are currently not an official company but merely a private hobby project, we do not offer paid positions. Nevertheless, you are of course welcome to volunteer to help with our projects - more info in the respective repos!
+> No, unfortunately that’s not possible. Since we are currently not an official company but merely a private hobby project, we do not offer paid positions. Nevertheless, you are of course welcome to volunteer to help with our projects! Either open an issue on GitHub or contact us via Email to get started.
 
 **Other questions?**
 
